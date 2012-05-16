@@ -6,7 +6,7 @@
 Documentation
 =============
 
-|django-courier| allows easy configuration of notifications and management of email templates. 
+`django-courier` allows easy configuration of notifications and management of email templates. 
 
 Contents:
 
