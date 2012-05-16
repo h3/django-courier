@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='django-courier',
-    version='0.0.2',
+    version='0.0.3',
     description='Allows easy configuration of notifications and management of email templates. ',
     author='Maxime Haineault (Motion Média)',
     author_email='max@motion-m.ca',
