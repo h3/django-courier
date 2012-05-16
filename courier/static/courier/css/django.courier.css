@@ -1,0 +1,17 @@
+#django-courier-vars {
+    width: 754px;
+}
+
+#django-courier-vars li {
+    float: left;
+    margin: 0 8px 8px 0;
+    list-style: none;
+}
+
+#django-courier-vars button.inserted {
+    background: #999;
+    background-image: -moz-linear-gradient(top, #bbbbbb, #999999);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#bbbbbb), to(#999999));
+    background-image: -o-linear-gradient(top, #bbbbbb, #999999);
+    text-shadow: 1px 1px 1px #666;
+}

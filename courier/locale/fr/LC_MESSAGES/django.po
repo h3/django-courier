@@ -1,0 +1,124 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-13 23:59-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+
+#: admin.py:27
+msgid "Desactivate selected email notifications"
+msgstr "Désactiver les notifications courriel sélectionnées"
+
+#: admin.py:31
+msgid "Activate selected email notifications"
+msgstr "Activer les notifications courriel sélectionnées"
+
+#: dashboard.py:15
+msgid "Courier configurations"
+msgstr "Configurations Courier"
+
+#: dashboard.py:27
+msgid "Courier"
+msgstr "Courier"
+
+#: models.py:17
+msgid "Subject"
+msgstr "Sujet"
+
+#: models.py:18
+msgid "Slug"
+msgstr "Slug"
+
+#: models.py:19
+msgid "Body"
+msgstr "Contenu"
+
+#: models.py:19
+msgid "Ex: Hello {{ object.firstname }} !"
+msgstr "Ex: Bonjour {{ object.firstname }} !"
+
+#: models.py:20
+msgid "Variables"
+msgstr "Variables"
+
+#: models.py:26
+msgid "Email template"
+msgstr "Gabarit courriel"
+
+#: models.py:27
+msgid "Email templates"
+msgstr "Gabarits courriel"
+
+#: models.py:36
+msgid "Created"
+msgstr "Créé"
+
+#: models.py:37
+msgid "Modified"
+msgstr "Modifié"
+
+#: models.py:38
+msgid "Deleted"
+msgstr "Supprimé"
+
+#: models.py:40
+msgid "Title"
+msgstr "Titre"
+
+#: models.py:40
+msgid "This field is used for your reference only."
+msgstr "Ce champs est utilisé à des fins de référence seulement"
+
+#: models.py:41
+msgid "Model"
+msgstr "Modèle"
+
+#: models.py:42
+msgid "Send when"
+msgstr "Envoyé quand"
+
+#: models.py:43
+msgid "Template"
+msgstr "Gabarit"
+
+#: models.py:44
+msgid "Recipients"
+msgstr "Destinataires"
+
+#: models.py:44
+msgid "Ex: some@email.com, another@email.com, object.email, DEFAULT_EMAIL_TO"
+msgstr ""
+"Ex: un@courriel.com, autre@courriel.com, object.email, DEFAULT_EMAIL_TO"
+
+#: models.py:45
+msgid "From email"
+msgstr "Courriel source"
+
+#: models.py:46
+msgid "Template object name"
+msgstr "Nom de l'objet"
+
+#: models.py:47
+msgid "Is active"
+msgstr "Est actif"
+
+#: models.py:53
+msgid "Email notification"
+msgstr "Notification courriel"
+
+#: models.py:54
+msgid "Email notifications"
+msgstr "Notifications courriel"
